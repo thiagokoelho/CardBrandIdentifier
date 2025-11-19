@@ -1,6 +1,5 @@
 # CardBrandIdentifier
 
-========================
 A small, elegant tool to detect credit card brands from card numbers. Built for clarity and tested end-to-end. Stylish, minimal, and created entirely in Visual Studio Code with GitHub Copilot for the DIO GitHub Copilot Course.
 
 ## Features
